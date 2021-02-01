@@ -10,4 +10,4 @@ def multiples(number):
     return sum
 
 
-print(multiples(1000))
+

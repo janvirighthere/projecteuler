@@ -8,3 +8,9 @@ def multiples(number):
         if i % 3 == 0 or i % 5 == 0:
             sum += i
     return sum
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 3922a631d7ae217c1317bc31de7c46e54cb508d4
